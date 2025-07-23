@@ -1,3 +1,5 @@
+Simple Create React App without Vite to display 3 amazon best sellers
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
