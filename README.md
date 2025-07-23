@@ -1,6 +1,6 @@
 Simple Create React App without Vite to display 3 amazon best sellers
 
-### 'npm install'
+### `npm install`
 
 Install all dependancies for this project
 
